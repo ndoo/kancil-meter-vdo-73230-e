@@ -31,10 +31,10 @@ KiCad reverse-engineering project for the **VDO 73230E** dashboard meter flex PC
 - [x] Board outline — holes, connector fingers, grid-aligned
 - [x] Copper — connector pads, bulb pads, gauge pads
 - [x] Silkscreen — board text and labels
-- [ ] Copper traces
-- [ ] CHARGE lamp pad repair *(see Notes)*
-- [ ] CHARGE lamp diode through-hole pads *(see Notes)*
-- [ ] Fabrication
+- [x] Copper traces
+- [x] CHARGE lamp pad repair *(see Notes)*
+- [x] CHARGE lamp diode through-hole pads *(see Notes)*
+- [ ] Fabrication *(in progress)*
 - [ ] Test fit
 - [ ] Electrical test
 - [ ] Functionality test
