@@ -24,6 +24,14 @@ KiCad reverse-engineering project for the **VDO 73230E** dashboard meter flex PC
 
 ![Front (deskewed)](references/vdo-73230-e-front-deskew.png)
 
+## Fabricated Board
+
+![Fabricated PCB front](photos/IMG_6910.png)
+
+![Fabricated PCB close-up](photos/IMG_6914.png)
+
+![Fabricated PCB overview](photos/IMG_6904.png)
+
 ## Progress
 
 - [x] Board scan (600 DPI, both sides)
@@ -34,7 +42,7 @@ KiCad reverse-engineering project for the **VDO 73230E** dashboard meter flex PC
 - [x] Copper traces
 - [x] CHARGE lamp pad repair *(see Notes)*
 - [x] CHARGE lamp diode through-hole pads *(see Notes)*
-- [ ] Fabrication *(in progress)*
+- [x] Fabrication
 - [ ] Test fit
 - [ ] Electrical test
 - [ ] Functionality test
